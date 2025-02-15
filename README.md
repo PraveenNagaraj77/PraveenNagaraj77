@@ -60,10 +60,17 @@ Currently, I am actively seeking job opportunities where I can apply my skills, 
 
 ---
 
+## 📜 Certifications & Achievements:
+- 🏅 **HackerRank Certifications**:  
+  - 🖥️ Frontend Developer (React) [🔗 View Certificate](https://www.hackerrank.com/certificates/a326a64e9003)
+
+ ---
+
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=algolia&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
 
 ---
 
