@@ -1,89 +1,38 @@
-<h1 align="center">Hi, I'm Praveen N 👋</h1>
+# 💫 About Me:
 
-<p align="center">
-  A passionate Full-Stack Developer actively seeking job opportunities where I can apply my expertise in JavaScript, React, Node.js, and modern web technologies.
-</p>
+### Hi, I'm Praveen N! 👋  
+I’m a **Full-Stack Developer** actively seeking job opportunities where I can apply my skills in **JavaScript, ReactJS, Node.js, Express.js, MongoDB**, and modern web development.  
 
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Developer with hands-on experience in building scalable web applications.
-- 🌱 Currently **learning DevOps, Cloud Technologies (AWS, GCP, Azure), Data Structures & Algorithms, and System Design**.
-- 🏆 Experienced in **MERN Stack (MongoDB, Express.js, React.js, Node.js), Redux, Tailwind CSS, Material UI, Bootstrap, and ShadCN**.
-- 🔍 Passionate about **problem-solving, system design, and writing clean, maintainable code**.
-- 🚀 Open to **collaborations, freelance projects, and job opportunities**.
+With hands-on experience in developing scalable web applications, **RESTful APIs, and dynamic frontends**, I am eager to contribute to a fast-paced team and grow as a developer.  
 
 ---
 
-## 💻 Tech Stack
+## 🚀 What I Bring to the Table:
 
-### **Frontend Development**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://avatars.githubusercontent.com/u/139054888?s=200&v=4" height="40" alt="ShadCN" />
-</div>
-
-### **Backend Development**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-</div>
-
-### **DevOps & Cloud Technologies (Currently Learning)**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-</div>
-
-### **Tools & Other Technologies**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-</div>
+✅ **Frontend Development** – ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Material UI](https://img.shields.io/badge/MaterialUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ShadCN](https://img.shields.io/badge/ShadCN-%23F7DF1E.svg?style=for-the-badge&logo=shadcn&logoColor=black)  
+✅ **Backend Development** – ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+✅ **Database Management** – ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+✅ **Version Control & Deployment** – ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%234D4DFF.svg?style=for-the-badge&logo=render&logoColor=white)  
+✅ **Currently Learning** – ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+✅ **Problem Solving** – ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23FF5733.svg?style=for-the-badge) ![System Design](https://img.shields.io/badge/System%20Design-%23FFA500.svg?style=for-the-badge)  
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&show_icons=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=algolia&hide_border=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=algolia&layout=compact" height="180px"/>
-</div>
+## 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-nagaraj-a8b956219/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenNagaraj77)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-prav-een.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveennagaraj76@gmail.com)  
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/praveen-nagaraj-a8b956219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:praveennagaraj76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/PraveenNagaraj77">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-prav-een.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=algolia&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
-⭐ **Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
+![Profile Views](https://visitcount.itsvg.in/api?id=PraveenNagaraj77&icon=10&color=13)
