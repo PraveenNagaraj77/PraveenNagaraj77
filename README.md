@@ -47,7 +47,7 @@ Currently, I am actively seeking job opportunities where I can apply my skills, 
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify"/>
+  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo"/>
   <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
   <img src="https://img.icons8.com/color/48/render.png" alt="Render"/>
 </p>
