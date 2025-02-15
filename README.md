@@ -1,98 +1,76 @@
 # 💫 About Me:
-I’m **Praveen N**, a passionate **Full-Stack Developer** actively looking for exciting job opportunities where I can apply my skills in **JavaScript, ReactJS, Node.js, Express.js, and MongoDB**.  
+### Hi there! I’m **Praveen N** 👋  
+A **Full-Stack Developer** passionate about building modern, scalable web applications. I specialize in **MERN Stack** and thrive in **problem-solving, system design, and performance optimization**.  
 
-With hands-on experience in **building scalable web applications, RESTful APIs, and dynamic frontends**, I’m eager to collaborate with innovative teams and grow as a developer.  
+🚀 **Actively seeking new opportunities** where I can apply my expertise in **JavaScript, React, Node.js, Express.js, MongoDB, and cloud technologies**.  
 
-## 🚀 What I Bring to the Table:
-✅ **MERN Stack Expertise** – MongoDB, Express.js, React.js, Node.js  
-✅ **Frontend Development** – React, Redux, Tailwind CSS, Material UI  
-✅ **Backend Development** – Node.js, Express.js, RESTful APIs, Authentication (JWT)  
-✅ **Database Management** – MongoDB, SQL  
-✅ **Cloud & DevOps (Learning)** – AWS, GCP, Docker, Kubernetes  
-✅ **Problem-Solving** – Data Structures & Algorithms, System Design  
-✅ **Deployment & Hosting** – Vercel, Netlify, Render  
+💡 Currently expanding my knowledge in **Cloud Platforms (AWS, GCP, Azure), Docker, and Kubernetes**.  
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-nagaraj-a8b956219/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prav-een.netlify.app/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveennagaraj76@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenNagaraj77)  
+## 🔥 **What I Bring to the Table:**
+✔ **Full-Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js)  
+✔ **Frontend Expertise:** React, Redux, Tailwind CSS, Material UI, Bootstrap, ShadCN  
+✔ **Backend Proficiency:** Node.js, Express.js, RESTful APIs, Authentication (JWT)  
+✔ **Database Management:** SQL & NoSQL (MongoDB, PostgreSQL, MySQL)  
+✔ **Deployment & DevOps:** Vercel, Netlify, Docker, CI/CD Pipelines  
+✔ **Problem-Solving & DSA Enthusiast:** Strong foundation in Data Structures & Algorithms  
+✔ **System Design:** Scalable architectures and microservices-based solutions  
 
 ---
 
-## 💻 Tech Stack:
-
-### **Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-### **Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
-
-### **Backend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### **Database Management**
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-### **Cloud & DevOps (Learning)**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-### **Deployment & Hosting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
+## 🌐 **Connect With Me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-nagaraj-a8b956219/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveennagaraj76@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenNagaraj77)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prav-een.netlify.app/)  
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=algolia&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## 💻 **Tech Stack:**
+### 🚀 **Frontend Development**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)  
+
+### 🛠 **Backend & Database**  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+
+### ☁ **DevOps & Cloud**  
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PraveenNagaraj77&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+## 📊 **GitHub Stats:**
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
+![Praveen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=algolia&hide_border=false)  
+![Praveen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
-## 📊 Profile Views:
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PraveenNagaraj77&icon=10&color=13" />
-</p>
+## 🏆 **GitHub Trophies:**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PraveenNagaraj77&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
-✨ **If you’re hiring or know of opportunities, feel free to connect with me!** 🚀  
+## 📢 **Fun Facts & Interests:**
+- 🔥 Love **solving coding problems** and **optimizing system performance**  
+- 🎨 Enjoy designing **clean, minimal UI components**  
+- 📖 Always learning **new technologies** to stay ahead  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=PraveenNagaraj77&icon=10&color=13)](https://visitcount.itsvg.in)  
+
+<!-- Created with ❤️ and GPRM (https://gprm.itsvg.in) -->
