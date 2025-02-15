@@ -25,6 +25,36 @@ Currently, I am actively seeking job opportunities where I can apply my skills, 
 
 ---
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/material-ui.png" alt="Material UI"/>
+  <img src="https://img.icons8.com/windows/48/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios/48/express-js.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud"/>
+  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify"/>
+  <img src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/>
+  <img src="https://img.icons8.com/color/48/render.png" alt="Render"/>
+</p>
+
+
+---
+
 ## 💻 Tech Stack:
 
 ### **Languages & Frameworks**  
