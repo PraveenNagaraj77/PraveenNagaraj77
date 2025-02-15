@@ -77,7 +77,7 @@ Currently, I am actively seeking job opportunities where I can apply my skills, 
 
 ![PraveenNagaraj77's Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=dark&show_icons=true&hide_border=true&count_private=true)  
 
-![PraveenNagaraj77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=dark&hide_border=true)  
+![PraveenNagaraj77's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=merko&hide_border=true)
 
 ![PraveenNagaraj77's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=dark&show_icons=true&hide_border=true&layout=compact)  
 
