@@ -18,39 +18,67 @@ With hands-on experience in developing scalable web applications, **RESTful APIs
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-prav-een.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveennagaraj76@gmail.com)  
 
-## 🛠 Tech Stack:
+# 💫 About Me:
+
+I’m Praveen N, a highly motivated Full-Stack Developer actively seeking exciting job opportunities where I can apply my skills in JavaScript, ReactJS, Node.js, Express.js, MongoDB, and modern web development.
+
+With hands-on experience developing scalable web applications, RESTful APIs, and dynamic frontends, I am eager to contribute to a fast-paced team and grow as a developer.
+
+🚀 **What I Bring to the Table:**
+
+✅ **Frontend Development** – React, Redux, Tailwind CSS, Material UI, Bootstrap, ShadCN  
+✅ **Backend Development** – Node.js, Express.js, RESTful APIs  
+✅ **Database Management** – MongoDB, SQL (Microsoft SQL Server)  
+✅ **DevOps & Cloud (Learning)** – AWS, GCP, Azure, Docker, Kubernetes  
+✅ **Other Skills** – C#, Java, Git, GitHub, Netlify, Vercel  
+✅ **Problem Solving** – Data Structures & Algorithms (DSA), System Design (Beginner Level)  
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveennagaraj)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@praveennagaraj)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveennagaraj76@gmail.com)
+
+# 💻 Tech Stack:
+
 ### **Frontend:**
-![React](https://img.icons8.com/color/48/000000/react-native.png) React  
-![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux  
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind_css.png) Tailwind CSS  
-![Material UI](https://img.icons8.com/color/48/000000/material-ui.png) Material UI  
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  
-![ShadCN](https://img.icons8.com/color/48/000000/web.png) ShadCN  
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/shadcn/ui/main/assets/logo.svg" height="50"/>
+</div>
 
 ### **Backend:**
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js  
-![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png) Express.js  
-![JWT](https://img.icons8.com/color/48/000000/password.png) JWT Authentication  
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+</div>
 
 ### **Database:**
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) PostgreSQL  
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL  
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
+</div>
 
-### **Version Control & Deployment:**
-![Git](https://img.icons8.com/color/48/000000/git.png) Git  
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) GitHub  
-![Netlify](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-logo-shadow-tal-revivo.png) Netlify  
-![Vercel](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vercel-an-open-source-website-deployment-and-development-platform-logo-shadow-tal-revivo.png) Vercel  
-![Render](https://img.icons8.com/color/48/000000/cloud.png) Render  
+### **DevOps & Cloud (Learning):**
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50"/>
+</div>
 
-### **Learning:**
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS  
-![GCP](https://img.icons8.com/color/48/000000/google-cloud.png) GCP  
-![Azure](https://img.icons8.com/color/48/000000/azure-1.png) Azure  
-![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker  
-![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) Kubernetes  
-![System Design](https://img.icons8.com/color/48/000000/diagram.png) System Design  
+### **Other Skills:**
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+</div>
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
