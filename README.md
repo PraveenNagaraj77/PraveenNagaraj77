@@ -74,7 +74,8 @@ Currently, I am actively seeking job opportunities where I can apply my skills, 
  ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenNagaraj77&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&bg_color=121212&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraveenNagaraj77&theme=radical&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNagaraj77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
