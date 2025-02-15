@@ -1,8 +1,8 @@
 # 💫 About Me:
 ### Hi, I'm Praveen N! 👋  
-I'm a **Full-Stack Developer** with expertise in JavaScript, ReactJS, Node.js, Express.js, MongoDB, and modern web development. I have hands-on experience in building scalable web applications, RESTful APIs, dynamic frontends, and end-to-end full-stack solutions. Passionate about writing clean, efficient code and optimizing performance, I excel in fast-paced environments and collaborative teams.
+I'm a **Full-Stack Developer** with over one year of experience in the IT industry and hands-on expertise in full-stack development. My skill set includes JavaScript, ReactJS, Node.js, Express.js, MongoDB, and modern web technologies. I have built scalable web applications, RESTful APIs, dynamic frontends, and end-to-end full-stack solutions. Passionate about writing clean, efficient, and optimized code, I thrive in fast-paced environments and excel in collaborative team settings.
 
-Currently, I am actively seeking job opportunities where I can leverage my skills, contribute to impactful projects, and continue growing as a developer.
+Currently, I am seeking new opportunities where I can apply my full-stack development skills, contribute to impactful projects, and continue growing as a developer. 🚀
 
 ---
 
