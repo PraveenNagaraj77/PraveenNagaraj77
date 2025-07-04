@@ -7,10 +7,10 @@ Currently, I am seeking new opportunities where I can apply my full-stack develo
 ---
 
 ## 🚀 What I Bring to the Table:
-✅ **Frontend Development** – React, Redux, Tailwind CSS, Material UI, Bootstrap, ShadCN  
-✅ **Backend Development** – Node.js, Express.js, RESTful APIs, Authentication (JWT)  
+✅ **Frontend Development** – React, Redux, Tailwind CSS,  Bootstrap, ShadCN  
+✅ **Backend Development** – Node.js, Express.js, RESTful APIs, Authentication (JWT) , Spring Boot 
 ✅ **Database Management** – MongoDB, SQL  
-✅ **Programming Languages** – JavaScript, Java, C#  
+✅ **Programming Languages** – JavaScript, Java, 
 ✅ **Version Control & Deployment** – Git, GitHub, Netlify, Vercel, Render  
 ✅ **Currently Learning** – DevOps, Cloud Technologies (AWS, GCP, Azure), Docker, Kubernetes  
 ✅ **Problem Solving** – Data Structures & Algorithms, System Design (Beginner Level)  
