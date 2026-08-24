@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Praveen Nagaraj
+# 👋 Hi, I'm Praveen N
 
 ### Full-Stack Developer | React · Node.js · Java · Spring Boot · SQL · AI
 
