@@ -221,12 +221,7 @@ Production Applications
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/PraveenNagaraj77">
-    [![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/PraveenNagaraj77"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&theme=github-compact&hide_border=true" alt="Praveen's GitHub Activity Graph" /> </a> </p>
 
 # 🌐 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/praveen-nagaraj-a8b956219/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/PraveenNagaraj77"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://rag-dev-lens.vercel.app/"> <img src="https://img.shields.io/badge/DevLens-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="mailto:praveennagaraj76@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
