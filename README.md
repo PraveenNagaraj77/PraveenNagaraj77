@@ -223,9 +223,7 @@ Production Applications
 
 <p align="center">
   <a href="https://github.com/PraveenNagaraj77">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&bg_color=09090B&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true"
-      alt="Praveen Nagaraj GitHub Activity Graph"
+    [![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
     />
   </a>
 </p>
