@@ -200,10 +200,7 @@ I enjoy taking an idea from **frontend → backend → database → AI integrati
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/PraveenNagaraj77/PraveenNagaraj77/output/github-snake-dark.svg"
-    alt="GitHub contribution snake"
-  />
+<img width="1014" height="921" alt="image" src="https://github.com/user-attachments/assets/0b1a4601-8914-4443-bc75-ce50887fdce1" />
 </p>
 ---
 
