@@ -197,6 +197,19 @@ I enjoy taking an idea from **frontend → backend → database → AI integrati
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/PraveenNagaraj77">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&theme=github-compact&hide_border=true"
+      alt="Praveen's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
