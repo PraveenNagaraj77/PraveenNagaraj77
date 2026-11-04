@@ -200,8 +200,14 @@ I enjoy taking an idea from **frontend → backend → database → AI integrati
 ## 📊 GitHub Activity
 
 <p align="center">
-<img width="1014" height="921" alt="image" src="https://github.com/user-attachments/assets/0b1a4601-8914-4443-bc75-ce50887fdce1" />
+  <a href="https://github.com/PraveenNagaraj77">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNagaraj77&theme=github-compact&hide_border=true"
+      alt="Praveen's GitHub activity graph"
+    />
+  </a>
 </p>
+
 ---
 
 # 🌐 Connect With Me
